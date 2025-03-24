@@ -24,4 +24,5 @@ Gekauft auf [AliExpress inkl. Drucker](https://a.aliexpress.com/_EyIhllq)
 Beim Start werden die Skripts ~/update_repo.sh und ~/schnorriMat-AutoUpdate/main.py ausgeführt.
 Die entsprechenden Services sind unter /etc/systemd/system/
 # Anschluss
-![Raspi-Verkabelung_Steckplatine](https://github.com/user-attachments/assets/0cbb30df-bc36-448f-921d-f1376bbee049)
+
+<img src="https://github.com/user-attachments/assets/0cbb30df-bc36-448f-921d-f1376bbee049" width=50% height=50%>
