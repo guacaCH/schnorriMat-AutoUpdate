@@ -18,4 +18,4 @@ Passwort: raspberry
 Rollenlänge: 57.5 mm (+/- 0.5mm)
 Rollendurchmesser: 30mm (max.)
 
-Gekauft auf [AliExpress inkl. Drucker][https://a.aliexpress.com/_EyIhllq]
+Gekauft auf [AliExpress inkl. Drucker](https://a.aliexpress.com/_EyIhllq)
