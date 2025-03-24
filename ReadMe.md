@@ -19,3 +19,6 @@ Rollenlänge: 57.5 mm (+/- 0.5mm)
 Rollendurchmesser: 30mm (max.)
 
 Gekauft auf [AliExpress inkl. Drucker](https://a.aliexpress.com/_EyIhllq)
+
+# Anschluss
+![Raspi-Verkabelung_Steckplatine](https://github.com/user-attachments/assets/0cbb30df-bc36-448f-921d-f1376bbee049)
